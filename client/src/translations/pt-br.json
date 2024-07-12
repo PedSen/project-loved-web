@@ -21,7 +21,7 @@
     "defaultMessage": "Motivo"
   },
   "/CNHO3": {
-    "defaultMessage": "Logar com conta do osu!"
+    "defaultMessage": "Logar com o osu!"
   },
   "/JQDIJ": {
     "defaultMessage": "Status do beatmap:"
@@ -66,7 +66,7 @@
     "defaultMessage": "Baixa"
   },
   "3FN4wO": {
-    "defaultMessage": "Esta pesquisa está encerrada. Obrigado por participar!"
+    "defaultMessage": "Esta pesquisa foi encerrada. Obrigado por participar!"
   },
   "3Kch6P": {
     "defaultMessage": "Crescente"
@@ -111,7 +111,7 @@
     "defaultMessage": "Fechar"
   },
   "8l6BC0": {
-    "defaultMessage": "Consentimentos de mappers"
+    "defaultMessage": "Consentimento de mappers"
   },
   "8x1LMQ": {
     "defaultMessage": "Adicionar"
@@ -129,7 +129,7 @@
     "defaultMessage": "Desenvolvedores"
   },
   "Bc30qK": {
-    "defaultMessage": "Rank"
+    "defaultMessage": "Ranque"
   },
   "Be0kKF": {
     "defaultMessage": "O mapa que você enviar pode nunca ser indicado para Loved, mesmo se tiver algum mérito. Atualmente, a taxa de mapas que são Loved é bem limitada, então é possível que os capitães acabem sempre achando mapas melhores do que o que você enviou."
@@ -151,6 +151,9 @@
   },
   "CxsxoI": {
     "defaultMessage": "Enviando..."
+  },
+  "D7eb3+": {
+    "defaultMessage": "<b>Clique aqui</b> para votar no round de"
   },
   "Do+EPJ": {
     "defaultMessage": "{user} revisou com {score} em {timestamp, date, long}"
@@ -216,10 +219,10 @@
     "defaultMessage": "Beatmapset"
   },
   "JPSkxB": {
-    "defaultMessage": "bandeira do(a)(s) {country}"
+    "defaultMessage": "bandeira do(a) {country}"
   },
   "Jy6JW8": {
-    "defaultMessage": "Eu não sei quem você é! Tente <a>entrar com a sua conta</a> primeiro."
+    "defaultMessage": "Eu não sei quem você é! Tente <a>logar</a> primeiro."
   },
   "K4bZ6F": {
     "defaultMessage": "Servidores do Discord"
@@ -246,10 +249,10 @@
     "defaultMessage": "Idade da conta"
   },
   "MoR8Of": {
-    "defaultMessage": "Consentimentos de mappers"
+    "defaultMessage": "Consentimento de mappers"
   },
   "N4xf2i": {
-    "defaultMessage": "Favoritos"
+    "defaultMessage": "Favs"
   },
   "N5wtAR": {
     "defaultMessage": "Ninguém"
@@ -318,10 +321,10 @@
     "defaultMessage": "Expandir"
   },
   "UxNmCh": {
-    "defaultMessage": "Médio"
+    "defaultMessage": "Média"
   },
   "UzL89/": {
-    "defaultMessage": "(captão)"
+    "defaultMessage": "(capitão)"
   },
   "V11p0B": {
     "defaultMessage": "Pendente e cemitério"
@@ -339,13 +342,13 @@
     "defaultMessage": "Plays"
   },
   "WLJwOC": {
-    "defaultMessage": "Página da wiki da equip.e"
+    "defaultMessage": "Página da wiki da equipe"
   },
   "WlIgyS": {
     "defaultMessage": "Por que você quer que esse mapa seja Loved?"
   },
   "XiH1Li": {
-    "defaultMessage": "(no {channel})"
+    "defaultMessage": "(em {channel})"
   },
   "YhVhtI": {
     "defaultMessage": "Este mapa tem muitos poucos favoritos."
@@ -367,6 +370,9 @@
   },
   "Ze8fJ0": {
     "defaultMessage": "Selecione uma pontuação"
+  },
+  "a+Pjuq": {
+    "defaultMessage": "A contagem de jogadas deste mapset híbrido pode não ser preciso. O osu! reseta a contagem de jogadas de cada dificuldade toda vez que o mapa é atualizado."
   },
   "a/VT/Q": {
     "defaultMessage": "Informações gerais sobre o Projeto Loved"
@@ -456,7 +462,7 @@
     "defaultMessage": "Status"
   },
   "lMSjPi": {
-    "defaultMessage": "Isso ainda não está disponível no momento. Volte em breve!"
+    "defaultMessage": "Isso ainda não está disponível para você no momento. Volte em breve!"
   },
   "lULo+e": {
     "defaultMessage": "Não passou na votação"
@@ -478,9 +484,6 @@
   },
   "mucI2W": {
     "defaultMessage": "Um método temporário para ordenar esta listagem. {definition}"
-  },
-  "nAQn+f": {
-    "defaultMessage": "Clique aqui para votar na rodada de {roundName}!"
   },
   "nUQEC7": {
     "defaultMessage": "forte oposição"
@@ -510,7 +513,7 @@
     "defaultMessage": "Novo!"
   },
   "pXOU6C": {
-    "defaultMessage": "Não há nada aqui =("
+    "defaultMessage": "Não tem nada aqui =("
   },
   "phKBIX": {
     "defaultMessage": "País desconhecido"
